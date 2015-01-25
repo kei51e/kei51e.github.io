@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'lost+found'
+tagline:          'before it is lost forever'
+description:      'Things I would like to share with you before those are lost forever in my memory. Written by <a href="https://twitter.com/kei51e" target="_blank">@kei51e</a>'
+url:              http://kei51e.github.io
+
+author:
+  name:           'Kei'
+  url:            https://twitter.com/kei51e
+
+paginate:         5
+
+# Custom vars
+#version:          2.0.0
+#
+#github:
+#  repo:           https://github.com/poole/lanyon

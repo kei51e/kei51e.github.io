@@ -17,15 +17,11 @@ Here's how to disable that feature.
 - Type in "whitespace" at "Installed Packages" textbox
 - Click "Settings" of the "whitespace" package
 
-![screenshot1](images/atom-trailing-whitespace1.png)
+<a href="https://www.flickr.com/photos/kei51/16455138375" title="atom-trailing-whitespace1"><img src="https://farm8.staticflickr.com/7308/16455138375_ac2090bbe2.jpg" width="500" height="262" alt="atom-trailing-whitespace1"></a>
 
 
 - Uncheck "Remove Trailing Whitespace" checkbox.
 
-![screenshot2](images/atom-trailing-whitespace2.png)
-
+<a href="https://www.flickr.com/photos/kei51/16455138345" title="atom-trailing-whitespace2"><img src="https://farm9.staticflickr.com/8609/16455138345_d1ca668fe1.jpg" width="500" height="293" alt="atom-trailing-whitespace2"></a>
 
 That's it! Hope this helps you.
-
-
-[[ images/atom-trailing-whitespace2.png | width = 500px ]]

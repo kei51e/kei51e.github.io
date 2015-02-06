@@ -22,7 +22,10 @@ Here's how to disable that feature.
 
 - Uncheck "Remove Trailing Whitespace" checkbox.
 
-![screenshot2](images/atom-trailing-whitespace3.png)
+![screenshot2](images/atom-trailing-whitespace2.png)
 
 
 That's it! Hope this helps you.
+
+
+[[ images/atom-trailing-whitespace2.png | width = 500px ]]

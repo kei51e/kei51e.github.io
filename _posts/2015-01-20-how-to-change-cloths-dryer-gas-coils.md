@@ -38,15 +38,15 @@ You can easily find a pair for around $10.
 
 * Unplug the main power cable and shut off the gas.
 
-![dryer](/public/images/7544/16153157077_0475be38d0_z.jpg)
+![dryer](/public/images/16153157077_0475be38d0_z.jpg)
 
 * Take off 2 screws, then take off the panel.
 
-![dryer](/public/images/8646/16337279211_fa97c3557e_z.jpg)
+![dryer](/public/images/16337279211_fa97c3557e_z.jpg)
 
 * Now you can access to the coils. You don't need to take off the drum!
 
-![dryer](/public/images/7575/15716612644_9435026b54_z.jpg)
+![dryer](/public/images/15716612644_9435026b54_z.jpg)
 
 * This is a closer look. This is the coil cartridge.
 * Replace coils. Watch [this video](http://youtu.be/tL5tH_hhvPk?t=1m8s) for 20sec

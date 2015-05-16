@@ -1,6 +1,6 @@
 ![VSCode](/public/images/Screenshot 2015-05-16 13.46.39.png)
 
-Microsoft recently released a new editor called ["Visual Studio Code"](https://code.visualstudio.com/). 
+Microsoft recently released a new editor called [Visual Studio Code](https://code.visualstudio.com/). 
 Unlike the traditional heavyweight IDEs such as VisualStudio, 
 it is just a lightweight code editor like Sublime or Atom. 
 It supports node.js, javascript, HTML, CSS and other web technologies

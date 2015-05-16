@@ -5,7 +5,8 @@ Unlike the traditional heavyweight IDEs such as VisualStudio,
 it is just a lightweight code editor like Sublime or Atom. 
 It supports node.js, javascript, HTML, CSS and other web technologies
 as well as C#. It also has a git support. 
-It runs on not only Windows, but on Mac and Linux also, which is great. 
+It runs on not only Windows, but on Mac and Linux also, which is great 
+because I use Mac. 
 
 
 The reason why it can run on multi platforms is because it is
@@ -17,9 +18,10 @@ I'm really intereted in why they didn't pick those in-house technology but
 went with one originally from Google.
 
 
-Anyway, I spent a couple of hours to check this new editor,
+Anyway, I spent a couple of hours to check out this new editor,
 and so far I really like it.
-The best part is, it is really lightweight and quick. 
+The best part is, it is really lightweight and quick 
+comparing to the Atom editor that I currently use. 
 Scrolling is very smooth even with a huge file, 
 it doesn't slow down even if you open a folder including
 a lot of files and folders in it. UI is simple and easy.

@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Favorite Atom Plugins
+---
+
 ![Atom editor](/public/images/Screenshot 2015-02-09 23.30.31.png)
 
 

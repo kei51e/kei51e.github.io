@@ -1,3 +1,8 @@
+---
+layout: post
+title: Visual Studio Code
+---
+
 ![VSCode](/public/images/Screenshot 2015-05-16 13.46.39.png)
 
 Microsoft recently released a new editor called [Visual Studio Code](https://code.visualstudio.com/). 

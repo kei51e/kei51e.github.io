@@ -18,7 +18,7 @@ val frame = sqlContext.createDataFrame(data, schema)
 ```
 
 The point is, you can create an RDD object by calling
-SparkContext#parallelize function. In this way you can
+`SparkContext#parallelize` function. In this way you can
 create a data frame without any input file.
 
 It is based on Spark 1.3.1.

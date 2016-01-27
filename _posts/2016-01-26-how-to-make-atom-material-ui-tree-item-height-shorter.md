@@ -5,10 +5,7 @@ title: How to make Atom Material UI tree item height shorter
 
 I have been using [Atom Material UI](https://atom.io/themes/atom-material-ui) and 
 [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
-for a week, I really like it so far! 
-
-
-The only thing I don't like is that it is too spacious, especially around the tree on left hand side. 
+for a week, and overall, I really like it! The only thing I don't like is that it is too spacious, especially around the tree on left hand side. 
 
 ![original](/public/images/atom-material-tree1.png)
 
